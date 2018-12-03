@@ -1,0 +1,17 @@
+e3b439f26ece4cdfd88dce75fbb24efb *DESCRIPTION
+6c3341a555a43f9da14742e90c7dd641 *LICENSE
+da9850011a9983dd7a1fc0ebb5e7c963 *NAMESPACE
+0d1ced49f5a07c99e2372b973fb0ba06 *NEWS.md
+9a9dd1d222da1b57a300153c3c71fcd6 *R/aaa_on_load.R
+dad085c275ee5b11b95edc6d77a3c30f *R/ical_clean_ical_parsed.R
+720e6e68937dda9ffc39f273002da91e *R/ical_parse.R
+69cfa9da0d4b820c4c5c79d7fd85ba32 *R/ical_parse_df.R
+e5a0eddbad06fb0339115edbd4776cdd *R/ical_parse_list.R
+b413005a4f7845f50f2379ec318f8e04 *README.md
+4cc8fadc33f27a7b3b0b920940133850 *inst/birthdays.ics
+bde22ec5dbf1d103137ca6a9b50209f2 *inst/ical.js
+63b22d79b6184ce8e63b30a59df6a644 *man/ical_clean_ical_parsed.Rd
+7c57eef3280b2ffcf33262a325dc00b4 *man/ical_parse.Rd
+1e5962f60bfe08659ae2341b9da78b41 *man/v8_env.Rd
+f68a4fdaf148bb3b38842c949bb77957 *tests/testthat.R
+07f9fa15aa2a2e2c925a786d2e91829c *tests/testthat/test_ical_parse.R
