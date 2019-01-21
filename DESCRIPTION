@@ -1,9 +1,9 @@
 Package: ical
 Type: Package
 Title: 'iCalendar' Parsing
-Version: 0.1.5
-Date: 2018-11-27
-Author: c(
+Version: 0.1.6
+Date: 2019-01-21
+Authors@R: c(
     person(
       "Peter", 
       "Meissner", 
@@ -33,6 +33,9 @@ RoxygenNote: 6.1.1
 Imports: V8 (>= 1.5)
 Suggests: testthat, covr
 NeedsCompilation: no
-Packaged: 2018-11-27 20:48:38 UTC; peter
+Packaged: 2019-01-21 20:06:05 UTC; peter
+Author: Peter Meissner [aut, cre],
+  Philipp Kewisch [cph] (Ical.js file is is licences under MPL.  Source:
+    https://github.com/mozilla-comm/ical.js)
 Repository: CRAN
-Date/Publication: 2018-12-03 11:22:41 UTC
+Date/Publication: 2019-01-21 20:20:03 UTC
